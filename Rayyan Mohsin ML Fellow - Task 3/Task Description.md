@@ -43,8 +43,4 @@ This report documents the analysis of a Netflix dataset to explore characteristi
 ### Conclusion
 The analysis of the Netflix dataset reveals key characteristics of short-duration movies, particularly their prevalence in the United States and the genre of Documentaries. The scatter plot visualization provides insights into the trends of movie durations over the years, though it does not conclusively support the notion that movies are getting shorter.
 
-### Recommendations
-- **Further Analysis**: Investigate other potential factors contributing to the duration of movies, such as director, budget, and audience preferences.
-- **Data Collection**: Gather more granular data on movie runtimes and additional genres to strengthen the analysis of trends over time.
-
 This comprehensive analysis leverages descriptive statistics and visualization techniques to explore Netflix movie data, providing valuable insights into the characteristics and trends of movie durations.
