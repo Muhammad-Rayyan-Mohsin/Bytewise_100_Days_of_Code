@@ -49,8 +49,4 @@ This report documents the analysis of a dataset containing information about sch
 ### Conclusion
 This analysis provides insights into the performance of NYC schools, highlighting top performers and identifying areas with significant variability. The handling of missing data ensures the integrity of the analysis, and the identification of high-performing schools and boroughs with large score variations offers valuable information for further investigation and policy-making.
 
-### Recommendations
-- **Further Analysis**: Explore the factors contributing to high performance in the top schools.
-- **Policy Implications**: Address the variability in school performance within boroughs with high standard deviations to promote educational equity.
-
 This structured approach to analyzing the NYC school dataset using Pandas and NumPy provides a clear methodology for extracting valuable insights from educational data.
